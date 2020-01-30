@@ -1,0 +1,485 @@
+command: person
+command: faculty
+command: student
+
+command>       Name: Armand Hammer
+  Category: Freshman
+    Course: CS3 Pear Programming      3.50 3.50
+    Course: CS4 Reading Core Dumps    4.00 3.75
+    Course: PH1 Perms and Waves       2.00 3.17
+
+      Name: Bob Iznogood
+  Category: Freshman
+    Course: CS1 Problem Solving       3.00 3.00
+    Course: CS5 Web Apples            3.00 3.00
+    Course: PH1 Perms and Waves       2.50 2.83
+
+      Name: Chriss Cross
+  Category: Freshman
+    Course: CS5 Web Apples            3.50 3.50
+    Course: MA1 Math for Chumps       2.00 2.75
+    Course: PH2 Particle Bored        3.50 3.00
+
+      Name: Dick Tator
+  Category: Freshman
+    Course: CS2 Pointy Pointers       3.50 3.50
+
+      Name: Eileen Dover
+  Category: Freshman
+    Course: CS1 Problem Solving       2.00 2.00
+    Course: CS3 Pear Programming      3.00 2.50
+    Course: PH1 Perms and Waves       2.50 2.50
+
+      Name: Ella Mentry
+  Category: Freshman
+    Course: CS3 Pear Programming      4.00 4.00
+    Course: CS4 Reading Core Dumps    4.00 4.00
+    Course: CS5 Web Apples            3.50 3.83
+
+      Name: Holly Wood
+  Category: Freshman
+    Course: PH2 Particle Bored        4.00 4.00
+
+      Name: Jay Walker
+  Category: Freshman
+    Course: CS2 Pointy Pointers       2.00 2.00
+    Course: CS5 Web Apples            3.00 2.50
+    Course: MA1 Math for Chumps       2.00 2.33
+
+      Name: Jean Poole
+  Category: Freshman
+    Course: CS4 Reading Core Dumps    3.00 3.00
+    Course: CS5 Web Apples            3.00 3.00
+    Course: PH2 Particle Bored        2.50 2.83
+
+      Name: Robin Banks
+  Category: Freshman
+    Course: CS4 Reading Core Dumps    3.00 3.00
+
+      Name: Rose Bush
+  Category: Freshman
+    Course: CS3 Pear Programming      3.50 3.50
+
+      Name: Sarah Bellum
+  Category: Freshman
+    Course: CS4 Reading Core Dumps    2.00 2.00
+
+      Name: Amanda Lynn
+  Category: Sophomore
+    Course: CS3 Pear Programming      2.50 2.50
+    Course: CS4 Reading Core Dumps    3.00 2.75
+    Course: CS5 Web Apples            3.00 2.83
+
+      Name: Anna Fender
+  Category: Sophomore
+    Course: CS5 Web Apples            2.50 2.50
+
+      Name: Barry Cade
+  Category: Sophomore
+    Course: CS1 Problem Solving       3.00 3.00
+    Course: CS3 Pear Programming      2.00 2.50
+    Course: MA1 Math for Chumps       3.00 2.67
+
+      Name: Carrie Oakey
+  Category: Sophomore
+    Course: CS3 Pear Programming      2.50 2.50
+    Course: CS4 Reading Core Dumps    2.00 2.25
+
+      Name: Isadore Bell
+  Category: Sophomore
+    Course: CS3 Pear Programming      2.50 2.50
+    Course: PH1 Perms and Waves       3.00 2.75
+
+      Name: Justin Case
+  Category: Sophomore
+    Course: CS2 Pointy Pointers       2.50 2.50
+    Course: CS3 Pear Programming      2.00 2.25
+    Course: MA1 Math for Chumps       2.50 2.33
+
+      Name: Leigh King
+  Category: Sophomore
+    Course: CS2 Pointy Pointers       3.00 3.00
+    Course: CS3 Pear Programming      3.00 3.00
+    Course: PH1 Perms and Waves       2.50 2.83
+
+      Name: Lou Tenant
+  Category: Sophomore
+    Course: CS4 Reading Core Dumps    4.00 4.00
+
+      Name: Molly Koehl
+  Category: Sophomore
+    Course: CS1 Problem Solving       2.00 2.00
+    Course: CS3 Pear Programming      2.50 2.25
+
+      Name: Oliver Sutton
+  Category: Sophomore
+    Course: CS4 Reading Core Dumps    2.50 2.50
+    Course: PH1 Perms and Waves       4.00 3.25
+    Course: PH2 Particle Bored        3.00 3.17
+
+      Name: Sue Yu
+  Category: Sophomore
+    Course: CS1 Problem Solving       2.50 2.50
+    Course: CS2 Pointy Pointers       4.00 3.25
+    Course: MA1 Math for Chumps       2.00 2.83
+
+      Name: Tina Ryhard
+  Category: Sophomore
+    Course: CS5 Web Apples            2.00 2.00
+    Course: PH2 Particle Bored        2.00 2.00
+
+      Name: Barb Dwyer
+  Category: Junior
+    Course: CS2 Pointy Pointers       2.50 2.50
+
+      Name: Brighton Early
+  Category: Junior
+    Course: CS1 Problem Solving       3.00 3.00
+    Course: CS4 Reading Core Dumps    3.00 3.00
+    Course: PH1 Perms and Waves       2.50 2.83
+
+      Name: Cara Van
+  Category: Junior
+    Course: CS1 Problem Solving       2.00 2.00
+    Course: CS2 Pointy Pointers       3.50 2.75
+    Course: PH1 Perms and Waves       3.50 3.00
+
+      Name: Duane Pipe
+  Category: Junior
+    Course: CS5 Web Apples            4.00 4.00
+
+      Name: Edna May
+  Category: Junior
+    Course: CS4 Reading Core Dumps    2.00 2.00
+
+      Name: Kenny Dewitt
+  Category: Junior
+    Course: CS1 Problem Solving       2.00 2.00
+    Course: CS3 Pear Programming      2.50 2.25
+    Course: CS4 Reading Core Dumps    4.00 2.83
+
+      Name: Myles Long
+  Category: Junior
+    Course: CS4 Reading Core Dumps    4.00 4.00
+
+      Name: Neil Down
+  Category: Junior
+    Course: CS1 Problem Solving       3.50 3.50
+    Course: CS2 Pointy Pointers       3.00 3.25
+    Course: CS4 Reading Core Dumps    2.00 2.83
+
+      Name: Sy Burnett
+  Category: Junior
+    Course: CS1 Problem Solving       3.50 3.50
+    Course: CS4 Reading Core Dumps    3.00 3.25
+    Course: CS5 Web Apples            2.00 2.83
+
+      Name: Andy Friese
+  Category: Senior
+    Course: CS3 Pear Programming      2.00 2.00
+
+      Name: Anita Bath
+  Category: Senior
+    Course: CS2 Pointy Pointers       3.50 3.50
+    Course: CS5 Web Apples            4.00 3.75
+    Course: PH2 Particle Bored        3.00 3.50
+
+      Name: Anna Graham
+  Category: Senior
+    Course: CS1 Problem Solving       3.00 3.00
+    Course: CS2 Pointy Pointers       3.00 3.00
+    Course: PH1 Perms and Waves       4.00 3.33
+
+      Name: Emma Lusa
+  Category: Senior
+    Course: CS3 Pear Programming      3.50 3.50
+    Course: CS5 Web Apples            4.00 3.75
+    Course: PH2 Particle Bored        2.00 3.17
+
+      Name: Joe King
+  Category: Senior
+    Course: CS1 Problem Solving       3.50 3.50
+
+      Name: Les Moore
+  Category: Senior
+    Course: CS2 Pointy Pointers       4.00 4.00
+    Course: CS4 Reading Core Dumps    4.00 4.00
+
+      Name: Paige Turner
+  Category: Senior
+    Course: CS2 Pointy Pointers       2.00 2.00
+    Course: MA1 Math for Chumps       3.50 2.75
+    Course: PH2 Particle Bored        2.00 2.50
+
+      Name: Scott Free
+  Category: Senior
+    Course: CS2 Pointy Pointers       3.50 3.50
+    Course: CS3 Pear Programming      3.00 3.25
+    Course: MA1 Math for Chumps       4.00 3.50
+
+      Name: Warren Peace
+  Category: Senior
+    Course: MA1 Math for Chumps       2.00 2.00
+
+command>       Name: Bill Ding
+  Category: Full Professor
+    Course: CS2 Pointy Pointers
+
+      Name: Fran Tic
+  Category: Associate Professor
+    Course: CS1 Problem Solving
+    Course: CS5 Web Apples
+    Course: PH2 Particle Bored
+
+      Name: Sandy Banks
+  Category: Assistant Professor
+    Course: CS5 Web Apples
+    Course: PH1 Perms and Waves
+
+      Name: Terry Aki
+  Category: Assistant Professor
+    Course: CS1 Problem Solving
+    Course: PH1 Perms and Waves
+    Course: PH2 Particle Bored
+
+      Name: Amanda Lynn
+  Category: Sophomore
+    Course: CS3 Pear Programming      2.50 2.50
+    Course: CS4 Reading Core Dumps    3.00 2.75
+    Course: CS5 Web Apples            3.00 2.83
+
+      Name: Andy Friese
+  Category: Senior
+    Course: CS3 Pear Programming      2.00 2.00
+
+      Name: Anita Bath
+  Category: Senior
+    Course: CS2 Pointy Pointers       3.50 3.50
+    Course: CS5 Web Apples            4.00 3.75
+    Course: PH2 Particle Bored        3.00 3.50
+
+      Name: Anna Fender
+  Category: Sophomore
+    Course: CS5 Web Apples            2.50 2.50
+
+      Name: Anna Graham
+  Category: Senior
+    Course: CS1 Problem Solving       3.00 3.00
+    Course: CS2 Pointy Pointers       3.00 3.00
+    Course: PH1 Perms and Waves       4.00 3.33
+
+      Name: Armand Hammer
+  Category: Freshman
+    Course: CS3 Pear Programming      3.50 3.50
+    Course: CS4 Reading Core Dumps    4.00 3.75
+    Course: PH1 Perms and Waves       2.00 3.17
+
+      Name: Barb Dwyer
+  Category: Junior
+    Course: CS2 Pointy Pointers       2.50 2.50
+
+      Name: Barry Cade
+  Category: Sophomore
+    Course: CS1 Problem Solving       3.00 3.00
+    Course: CS3 Pear Programming      2.00 2.50
+    Course: MA1 Math for Chumps       3.00 2.67
+
+      Name: Bob Iznogood
+  Category: Freshman
+    Course: CS1 Problem Solving       3.00 3.00
+    Course: CS5 Web Apples            3.00 3.00
+    Course: PH1 Perms and Waves       2.50 2.83
+
+      Name: Brighton Early
+  Category: Junior
+    Course: CS1 Problem Solving       3.00 3.00
+    Course: CS4 Reading Core Dumps    3.00 3.00
+    Course: PH1 Perms and Waves       2.50 2.83
+
+      Name: Cara Van
+  Category: Junior
+    Course: CS1 Problem Solving       2.00 2.00
+    Course: CS2 Pointy Pointers       3.50 2.75
+    Course: PH1 Perms and Waves       3.50 3.00
+
+      Name: Carrie Oakey
+  Category: Sophomore
+    Course: CS3 Pear Programming      2.50 2.50
+    Course: CS4 Reading Core Dumps    2.00 2.25
+
+      Name: Chriss Cross
+  Category: Freshman
+    Course: CS5 Web Apples            3.50 3.50
+    Course: MA1 Math for Chumps       2.00 2.75
+    Course: PH2 Particle Bored        3.50 3.00
+
+      Name: Dick Tator
+  Category: Freshman
+    Course: CS2 Pointy Pointers       3.50 3.50
+
+      Name: Duane Pipe
+  Category: Junior
+    Course: CS5 Web Apples            4.00 4.00
+
+      Name: Edna May
+  Category: Junior
+    Course: CS4 Reading Core Dumps    2.00 2.00
+
+      Name: Eileen Dover
+  Category: Freshman
+    Course: CS1 Problem Solving       2.00 2.00
+    Course: CS3 Pear Programming      3.00 2.50
+    Course: PH1 Perms and Waves       2.50 2.50
+
+      Name: Ella Mentry
+  Category: Freshman
+    Course: CS3 Pear Programming      4.00 4.00
+    Course: CS4 Reading Core Dumps    4.00 4.00
+    Course: CS5 Web Apples            3.50 3.83
+
+      Name: Emma Lusa
+  Category: Senior
+    Course: CS3 Pear Programming      3.50 3.50
+    Course: CS5 Web Apples            4.00 3.75
+    Course: PH2 Particle Bored        2.00 3.17
+
+      Name: Holly Wood
+  Category: Freshman
+    Course: PH2 Particle Bored        4.00 4.00
+
+      Name: Isadore Bell
+  Category: Sophomore
+    Course: CS3 Pear Programming      2.50 2.50
+    Course: PH1 Perms and Waves       3.00 2.75
+
+      Name: Jay Walker
+  Category: Freshman
+    Course: CS2 Pointy Pointers       2.00 2.00
+    Course: CS5 Web Apples            3.00 2.50
+    Course: MA1 Math for Chumps       2.00 2.33
+
+      Name: Jean Poole
+  Category: Freshman
+    Course: CS4 Reading Core Dumps    3.00 3.00
+    Course: CS5 Web Apples            3.00 3.00
+    Course: PH2 Particle Bored        2.50 2.83
+
+      Name: Joe King
+  Category: Senior
+    Course: CS1 Problem Solving       3.50 3.50
+
+      Name: Justin Case
+  Category: Sophomore
+    Course: CS2 Pointy Pointers       2.50 2.50
+    Course: CS3 Pear Programming      2.00 2.25
+    Course: MA1 Math for Chumps       2.50 2.33
+
+      Name: Kenny Dewitt
+  Category: Junior
+    Course: CS1 Problem Solving       2.00 2.00
+    Course: CS3 Pear Programming      2.50 2.25
+    Course: CS4 Reading Core Dumps    4.00 2.83
+
+      Name: Leigh King
+  Category: Sophomore
+    Course: CS2 Pointy Pointers       3.00 3.00
+    Course: CS3 Pear Programming      3.00 3.00
+    Course: PH1 Perms and Waves       2.50 2.83
+
+      Name: Les Moore
+  Category: Senior
+    Course: CS2 Pointy Pointers       4.00 4.00
+    Course: CS4 Reading Core Dumps    4.00 4.00
+
+      Name: Lou Tenant
+  Category: Sophomore
+    Course: CS4 Reading Core Dumps    4.00 4.00
+
+      Name: Molly Koehl
+  Category: Sophomore
+    Course: CS1 Problem Solving       2.00 2.00
+    Course: CS3 Pear Programming      2.50 2.25
+
+      Name: Myles Long
+  Category: Junior
+    Course: CS4 Reading Core Dumps    4.00 4.00
+
+      Name: Neil Down
+  Category: Junior
+    Course: CS1 Problem Solving       3.50 3.50
+    Course: CS2 Pointy Pointers       3.00 3.25
+    Course: CS4 Reading Core Dumps    2.00 2.83
+
+      Name: Oliver Sutton
+  Category: Sophomore
+    Course: CS4 Reading Core Dumps    2.50 2.50
+    Course: PH1 Perms and Waves       4.00 3.25
+    Course: PH2 Particle Bored        3.00 3.17
+
+      Name: Paige Turner
+  Category: Senior
+    Course: CS2 Pointy Pointers       2.00 2.00
+    Course: MA1 Math for Chumps       3.50 2.75
+    Course: PH2 Particle Bored        2.00 2.50
+
+      Name: Robin Banks
+  Category: Freshman
+    Course: CS4 Reading Core Dumps    3.00 3.00
+
+      Name: Rose Bush
+  Category: Freshman
+    Course: CS3 Pear Programming      3.50 3.50
+
+      Name: Sarah Bellum
+  Category: Freshman
+    Course: CS4 Reading Core Dumps    2.00 2.00
+
+      Name: Scott Free
+  Category: Senior
+    Course: CS2 Pointy Pointers       3.50 3.50
+    Course: CS3 Pear Programming      3.00 3.25
+    Course: MA1 Math for Chumps       4.00 3.50
+
+      Name: Sue Yu
+  Category: Sophomore
+    Course: CS1 Problem Solving       2.50 2.50
+    Course: CS2 Pointy Pointers       4.00 3.25
+    Course: MA1 Math for Chumps       2.00 2.83
+
+      Name: Sy Burnett
+  Category: Junior
+    Course: CS1 Problem Solving       3.50 3.50
+    Course: CS4 Reading Core Dumps    3.00 3.25
+    Course: CS5 Web Apples            2.00 2.83
+
+      Name: Tina Ryhard
+  Category: Sophomore
+    Course: CS5 Web Apples            2.00 2.00
+    Course: PH2 Particle Bored        2.00 2.00
+
+      Name: Warren Peace
+  Category: Senior
+    Course: MA1 Math for Chumps       2.00 2.00
+
+command>       Name: Sandy Banks
+  Category: Assistant Professor
+    Course: CS5 Web Apples
+    Course: PH1 Perms and Waves
+
+      Name: Terry Aki
+  Category: Assistant Professor
+    Course: CS1 Problem Solving
+    Course: PH1 Perms and Waves
+    Course: PH2 Particle Bored
+
+      Name: Fran Tic
+  Category: Associate Professor
+    Course: CS1 Problem Solving
+    Course: CS5 Web Apples
+    Course: PH2 Particle Bored
+
+      Name: Bill Ding
+  Category: Full Professor
+    Course: CS2 Pointy Pointers
+
+command> 
